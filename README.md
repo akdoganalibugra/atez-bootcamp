@@ -25,3 +25,17 @@ Each assignment has its own subdirectory with the assignment name.
 
 - [Task 01](https://github.com/akdoganalibugra/atez-bootcamp)
 - [Task 02](https://github.com/akdoganalibugra/atez-bootcamp)
+
+# Course Schedule
+- Introduction to Node.js 
+- Source Control (git)
+- Introduction to Typescript
+- Importing node.js core modules
+- File system and CLI, Debugging
+- Asynchronus Operations
+- Web Servers & Frameworks & APIs
+- Databases and Postgresql
+- Creating an example app with Postgresql & Docker
+- API Security & Auth
+- Sorting, Filtering and Pagination
+- Unit Testing
