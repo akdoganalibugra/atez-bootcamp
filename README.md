@@ -15,7 +15,7 @@ If you find a typo or error in the assignments, notes, or content, please feel f
 All content related to the Node.js Backend Bootcamp is located in the ___content___ directory.   
 This directory contains subdirectories for each ___course___ of the bootcamp.
 
-> [Course 01](https://github.com/akdoganalibugra/atez-bootcamp) 
+> [Course 01](https://github.com/akdoganalibugra/atez-bootcamp/tree/main/course01) 
 
 > [Course 02](https://github.com/akdoganalibugra/atez-bootcamp)
 
@@ -23,8 +23,8 @@ This directory contains subdirectories for each ___course___ of the bootcamp.
 All assignments are located in the ___tasks___ directory.  
 Each assignment has its own subdirectory with the assignment name.
 
-- [Task 01](https://github.com/akdoganalibugra/atez-bootcamp)
-- [Task 02](https://github.com/akdoganalibugra/atez-bootcamp)
+- [Task 01](https://github.com/akdoganalibugra/atez-bootcamp/blob/main/course01/task/getFactorial.ts)
+- [Task 02](https://github.com/akdoganalibugra/atez-bootcamp/blob/main/course01/task/multiply.ts)
 
 # Course Schedule
 - Introduction to Node.js 
