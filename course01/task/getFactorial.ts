@@ -1,3 +1,6 @@
+// course01 task01
+// Could you write a function that calculates the factorial?
+
 function isInteger(n: number): boolean {
     // @ts-ignore
     return Number.isInteger(n);

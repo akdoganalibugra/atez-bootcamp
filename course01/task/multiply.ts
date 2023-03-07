@@ -1,3 +1,9 @@
+// course01 task02
+/**
+ * Could you write a function that takes multiple variables or
+an unlimited number of variables as input and performs multiplication operation?
+*/
+
 function multiply(...args: number[]): number {
     let result = 1;
     for (const arg of args) {
