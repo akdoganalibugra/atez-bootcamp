@@ -19,6 +19,8 @@ This directory contains subdirectories for each ___course___ of the bootcamp.
 
 > [Course 02](https://github.com/akdoganalibugra/atez-bootcamp)
 
+> [Course 04](https://github.com/akdoganalibugra/atez-bootcamp/tree/main/course04)
+
 ## Assignments
 All assignments are located in the ___tasks___ directory.  
 Each assignment has its own subdirectory with the assignment name.
