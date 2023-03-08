@@ -27,7 +27,7 @@ Each assignment has its own subdirectory with the assignment name.
 
 - [Task 01](https://github.com/akdoganalibugra/atez-bootcamp/blob/main/course01/task) : getFactorial(), getMultiply()
 - [Task 02](https://github.com/akdoganalibugra/atez-bootcamp/blob/main/course01/task)
-- [Task 04](https://github.com/akdoganalibugra/atez-bootcamp/blob/main/course04/task) : writeSentenceToFile() 
+- [Task 04](https://github.com/akdoganalibugra/atez-bootcamp/blob/main/course04/task) : writeSentenceToFile(), copyFile()
 
 # Course Schedule
 - Introduction to Node.js 
