@@ -23,9 +23,9 @@ This directory contains subdirectories for each ___course___ of the bootcamp.
 All assignments are located in the ___tasks___ directory.  
 Each assignment has its own subdirectory with the assignment name.
 
-- [Task 01](https://github.com/akdoganalibugra/atez-bootcamp/blob/main/course01/task)
+- [Task 01](https://github.com/akdoganalibugra/atez-bootcamp/blob/main/course01/task) : getFactorial(), getMultiply()
 - [Task 02](https://github.com/akdoganalibugra/atez-bootcamp/blob/main/course01/task)
-- [Task 04](https://github.com/akdoganalibugra/atez-bootcamp/blob/main/course04/task)
+- [Task 04](https://github.com/akdoganalibugra/atez-bootcamp/blob/main/course04/task) : writeSentenceToFile() 
 
 # Course Schedule
 - Introduction to Node.js 
